@@ -42,6 +42,8 @@ public class JavaApplication1 {
         T1.start();
         Runner T2= new Runner();
         T2.start();
+      
     }
     
+            
 }
